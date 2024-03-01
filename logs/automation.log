@@ -1,0 +1,15 @@
+21:53:37.556 [main] INFO  testCases.LoginTestCase - **starting login testcase**
+21:53:37.595 [main] INFO  testCases.LoginTestCase - **clicking on my account**
+21:53:39.711 [main] INFO  testCases.LoginTestCase - **clicking on login**
+21:53:43.021 [main] INFO  testCases.LoginTestCase - **entering the credentias**
+21:53:49.885 [main] INFO  testCases.LoginTestCase - **login testcase is completed**
+21:56:12.717 [main] INFO  testCases.LoginTestCase - **starting login testcase**
+21:56:12.757 [main] INFO  testCases.LoginTestCase - **clicking on my account**
+21:56:14.921 [main] INFO  testCases.LoginTestCase - **clicking on login**
+21:56:17.924 [main] INFO  testCases.LoginTestCase - **entering the credentias**
+21:56:24.817 [main] INFO  testCases.LoginTestCase - **login testcase is completed**
+21:59:01.425 [main] INFO  testCases.LoginTestCase - **starting login testcase**
+21:59:01.462 [main] INFO  testCases.LoginTestCase - **clicking on my account**
+21:59:03.608 [main] INFO  testCases.LoginTestCase - **clicking on login**
+21:59:07.934 [main] INFO  testCases.LoginTestCase - **entering the credentias**
+21:59:14.808 [main] INFO  testCases.LoginTestCase - **login testcase is completed**
